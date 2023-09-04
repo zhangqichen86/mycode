@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "password.h": "c",
+        "clerk.h": "c",
+        "members.h": "c",
+        "stdlib.h": "c"
+    }
+}
